@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01. ROS2 기본 명령 익히기/02. Node.md",
+                "file": "03. 패키지 만들고 토픽 다루기/02. Topic Subscriber 노드 추가.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01. ROS2 기본 명령 익히기/02. Node.md",
+                "file": "03. 패키지 만들고 토픽 다루기/02. Topic Subscriber 노드 추가.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01. ROS2 기본 명령 익히기/02. Node.md",
+                "file": "03. 패키지 만들고 토픽 다루기/02. Topic Subscriber 노드 추가.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01. ROS2 기본 명령 익히기/02. Node.md"
+                "file": "03. 패키지 만들고 토픽 다루기/02. Topic Subscriber 노드 추가.md"
               }
             }
           }
@@ -149,6 +149,12 @@
   },
   "active": "0ac2b9011df539da",
   "lastOpenFiles": [
+    "04. 메시지 정의 만들기/01. 메시지 정의.md",
+    "02. Python ROS2/04. 서비스 클라이언트 다뤄보기.md",
+    "02. Python ROS2/02. 토픽 구독해보기.md",
+    "01. ROS2 기본 명령 익히기/1.2 ROS Topic/04. Topic.md",
+    "01. ROS2 기본 명령 익히기/03. ROS2 서비스, 액션, 토픽.md",
+    "01. ROS2 기본 명령 익히기/02. Node.md",
     "01. ROS2 기본 명령 익히기/1.3 ROS Action/05. Action.md",
     "01. ROS2 기본 명령 익히기/1.3 ROS Action/05.1 실습해보자.md",
     "02. Python ROS2/01. rclpy.md",
@@ -172,8 +178,6 @@
     "06. 파라미터 다루기",
     "05. 작은 프로젝트/04. 멀티스레드.md",
     "05. 작은 프로젝트/image/22.png",
-    "02. Python ROS2/04. 서비스 클라이언트 다뤄보기.md",
-    "01. ROS2 기본 명령 익히기/03. ROS2 서비스, 액션, 토픽.md",
     "README.md",
     "02. Python ROS2/00. 한눈에 보는 Python ROS2.md",
     "05. 작은 프로젝트/image/21.png",
@@ -181,7 +185,6 @@
     "05. 작은 프로젝트/01. 두 개의 토픽을 구독하고 하나의 토픽을 발행해보자.md",
     "03. 패키지 만들고 토픽 다루기/03. Topic Publisher 노드 추가.md",
     "03. 패키지 만들고 토픽 다루기/02. Topic Subscriber 노드 추가.md",
-    "04. 메시지 정의 만들기/01. 메시지 정의.md",
     "03. 패키지 만들고 토픽 다루기/01. 패키지 만들어보기.md",
     "05. 작은 프로젝트/image",
     "05. 작은 프로젝트/01. 두 개의 토픽을 구독하고 하나의 토픽을 발행해보자",
@@ -191,9 +194,6 @@
     "02. Python ROS2/03. 토픽 발행해보기.md",
     "00. 환경 설정 및 준비/05. bashrc.md",
     "00. 환경 설정 및 준비/06. ROS2 도메인 설정.md",
-    "00. 환경 설정 및 준비/00. 한눈에 보는 ROS2 를 위한 윈도우 개발환경 설정.md",
-    "00. 환경 설정 및 준비/08. setup.bash 환경이란.md",
-    "00. 환경 설정 및 준비/04. 기본 Ubuntu 명령어.md",
     "03. 패키지 만들고 토픽 다루기/image"
   ]
 }
